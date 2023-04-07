@@ -1,0 +1,20 @@
+*{height: 100%;width: 100%;padding:0;margin:0}
+body{
+    display: flex;flex-direction: column;
+}
+main
+aside{border-color: red;border-style: groove;margin: 5px;}
+section{border-color: red;border-style: groove;margin: 5px;}
+footer{border-color: red;border-style: groove;}
+div{font-style: italic;font-family:'Edu NSW ACT Foundation', cursive;}
+header{height:100xp;display: flex;flex-wrap: nowrap;margin: 5px;background-color: aliceblue;}
+header h1{line-height: 100px;text-align: center;}
+nav{display: flex;direction:row;text-decoration: none;}
+a{line-height:100px;text-decoration: none;text-align: center;}
+main{margin:5px;display: flex;flex: auto;height: max-content;}
+section{text-align: center;height: fit-content;}
+#as-left{width: 25%;height: fit-content;}
+#as-right{text-align: center;width: 25%;height: fit-content;}
+footer{
+    text-align: center;background-color: darkgrey;margin: 5px;height:50px;
+}
